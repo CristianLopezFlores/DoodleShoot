@@ -6,7 +6,7 @@ body{
     height: 100vh;
     width:100%;
 }
-#canvas{
+#canvasDiv{
     width:70vw;
     height:70vh;
     background-color: white;
